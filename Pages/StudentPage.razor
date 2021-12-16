@@ -1,0 +1,30 @@
+@page "/studentpage"
+
+<h3>Daftar Student</h3>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nim</th>
+            <th>Nama Belakang</th>
+            <th>Nama Depan</th>
+            <th>Tanggal Masuk</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stu in Student)
+        {
+            <tr>
+                <td>@stu.studentId</td>
+                <td>@stu.lastName</td>
+                <td>@stu.firstName</td>
+                <td>@stu.enrollmentDate</td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">details</a></td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">enroll</a></td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">edit</a></td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">delete</a></td>
+            </tr>  
+        }
+    </tbody>
+</table>

@@ -13,70 +13,70 @@ namespace BlazorUAS276.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 1 "C:\blazor\BlazorUAS276\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 2 "C:\blazor\BlazorUAS276\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 3 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 4 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 5 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 6 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 7 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 8 "C:\blazor\BlazorUAS276\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 9 "C:\blazor\BlazorUAS276\_Imports.razor"
 using BlazorUAS276;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "c:\blazor\BlazorUAS276\_Imports.razor"
+#line 10 "C:\blazor\BlazorUAS276\_Imports.razor"
 using BlazorUAS276.Shared;
 
 #line default
@@ -90,7 +90,7 @@ using BlazorUAS276.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "c:\blazor\BlazorUAS276\Shared\NavMenu.razor"
+#line 28 "C:\blazor\BlazorUAS276\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

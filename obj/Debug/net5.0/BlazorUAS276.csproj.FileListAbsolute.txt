@@ -630,3 +630,5 @@ C:\blazor\BlazorUAS276\obj\Debug\net5.0\BlazorUAS276.csproj.CopyComplete
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\BlazorUAS276.dll
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\ref\BlazorUAS276.dll
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\BlazorUAS276.pdb
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs

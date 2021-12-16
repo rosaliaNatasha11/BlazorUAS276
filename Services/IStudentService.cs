@@ -10,7 +10,6 @@ namespace BlazorUAS276.Services
     {
          Task<IEnumerable<Student>> GetAll();
          Task<Student> GetById(string studentID);
-         Task<Student> Update(string studentID,Student student);
-         Task<Student> Add(Student student);
+        
     }
 }

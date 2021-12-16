@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -476280001,
+        "HashCode": 1987105371,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.App",
+        "Name": "BlazorUAS276.Pages.StudentPage",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "StudentPage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.App"
+          "Common.TypeName": "BlazorUAS276.Pages.StudentPage"
         }
       },
       {
-        "HashCode": -228624555,
+        "HashCode": 1395433371,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.App",
+        "Name": "BlazorUAS276.Pages.StudentPage",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorUAS276.App"
+            "TagName": "BlazorUAS276.Pages.StudentPage"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.App",
+          "Common.TypeName": "BlazorUAS276.Pages.StudentPage",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -136,6 +136,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorUAS276.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -476280001,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.App",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.App"
+        }
+      },
+      {
+        "HashCode": -228624555,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.App",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUAS276.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13021,6 +13054,11 @@
     {
       "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\StudentPage.razor",
+      "TargetPath": "Pages\\StudentPage.razor",
       "FileKind": "component"
     },
     {
