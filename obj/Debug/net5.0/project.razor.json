@@ -8,39 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1987105371,
-        "Kind": "Components.Component",
-        "Name": "BlazorUAS276.Pages.StudentPage",
-        "AssemblyName": "BlazorUAS276",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "StudentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.Pages.StudentPage"
-        }
-      },
-      {
-        "HashCode": 1395433371,
-        "Kind": "Components.Component",
-        "Name": "BlazorUAS276.Pages.StudentPage",
-        "AssemblyName": "BlazorUAS276",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorUAS276.Pages.StudentPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.Pages.StudentPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 286739163,
         "Kind": "Components.Component",
         "Name": "BlazorUAS276.Pages.Counter",
