@@ -632,3 +632,9 @@ C:\blazor\BlazorUAS276\obj\Debug\net5.0\ref\BlazorUAS276.dll
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\BlazorUAS276.pdb
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\RazorDeclaration\Pages\StudentPage.razor.g.cs
 C:\blazor\BlazorUAS276\obj\Debug\net5.0\Razor\Pages\StudentPage.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\RazorDeclaration\Pages\DetailStudent.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\Razor\Pages\DetailStudent.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+C:\blazor\BlazorUAS276\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs

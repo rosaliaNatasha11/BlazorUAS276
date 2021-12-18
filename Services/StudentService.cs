@@ -27,5 +27,14 @@ namespace BlazorUAS276.Services
             var result = await _httpClient.GetFromJsonAsync<Student>($"api/Student/{id}");
             return result;
         }
+        public async Task<Student> tambah(Student obj){
+            var response = await _httpClient.PostAsJsonAsync($"api/Student",obj);
+            if(response.IsSuccessStatusCode){
+                return await JsonSerializer.DeserializeAsync<Student>(await response.Content.ReadAsStreamAsync());
+            }
+            else{
+                throw new Exception("Gagal tambah data student");
+            }
+    }
     }
 }

@@ -8,6 +8,198 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1761176992,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.AddStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.AddStudent"
+        }
+      },
+      {
+        "HashCode": -1834295232,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.AddStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUAS276.Pages.AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.AddStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -973313769,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.DeleteStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": -639970004,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.DeleteStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUAS276.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1109776702,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.DetailStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.DetailStudent"
+        }
+      },
+      {
+        "HashCode": 1641135224,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.DetailStudent",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUAS276.Pages.DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.DetailStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1987105371,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.StudentPage",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "StudentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.StudentPage"
+        }
+      },
+      {
+        "HashCode": 1395433371,
+        "Kind": "Components.Component",
+        "Name": "BlazorUAS276.Pages.StudentPage",
+        "AssemblyName": "BlazorUAS276",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorUAS276.Pages.StudentPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorUAS276.Pages.StudentPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 286739163,
         "Kind": "Components.Component",
         "Name": "BlazorUAS276.Pages.Counter",
@@ -107,35 +299,35 @@
         }
       },
       {
-        "HashCode": -476280001,
+        "HashCode": 1964220677,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.App",
+        "Name": "BlazorUAS276.Shared.NavMenu",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.App"
+          "Common.TypeName": "BlazorUAS276.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -228624555,
+        "HashCode": 557546889,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.App",
+        "Name": "BlazorUAS276.Shared.NavMenu",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorUAS276.App"
+            "TagName": "BlazorUAS276.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.App",
+          "Common.TypeName": "BlazorUAS276.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,35 +481,35 @@
         }
       },
       {
-        "HashCode": 1964220677,
+        "HashCode": -476280001,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.Shared.NavMenu",
+        "Name": "BlazorUAS276.App",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.Shared.NavMenu"
+          "Common.TypeName": "BlazorUAS276.App"
         }
       },
       {
-        "HashCode": 557546889,
+        "HashCode": -228624555,
         "Kind": "Components.Component",
-        "Name": "BlazorUAS276.Shared.NavMenu",
+        "Name": "BlazorUAS276.App",
         "AssemblyName": "BlazorUAS276",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorUAS276.Shared.NavMenu"
+            "TagName": "BlazorUAS276.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorUAS276.Shared.NavMenu",
+          "Common.TypeName": "BlazorUAS276.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13024,13 +13216,28 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\DeleteStudent.razor",
+      "TargetPath": "Pages\\DeleteStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\StudentPage.razor",
       "TargetPath": "Pages\\StudentPage.razor",
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\DetailStudent.razor",
+      "TargetPath": "Pages\\DetailStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\blazor\\BlazorUAS276\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\blazor\\BlazorUAS276\\Pages\\AddStudent.razor",
+      "TargetPath": "Pages\\AddStudent.razor",
       "FileKind": "component"
     },
     {

@@ -1,11 +1,13 @@
 @page "/studentpage"
 
-<h3>Daftar Student</h3>
+<h3>List Odf Student 0276</h3>
+ <a href="addstudent" class="btn btn-success m-1">Add New Data</a>
+
 
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>Nim</th>
+            <th>NIM</th>
             <th>Nama Belakang</th>
             <th>Nama Depan</th>
             <th>Tanggal Masuk</th>
@@ -20,10 +22,10 @@
                 <td>@stu.lastName</td>
                 <td>@stu.firstName</td>
                 <td>@stu.enrollmentDate</td>
-              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">details</a></td>
+              <td><a href="@($"detailstudent/{stu.studentId}")" class="btn btn-info">details</a></td>
               <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">enroll</a></td>
-              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">edit</a></td>
-              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-primary">delete</a></td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-warning">edit</a></td>
+              <td><a href="@($"departmentdetail/{stu.studentId}")" class="btn btn-danger">delete</a></td>
             </tr>  
         }
     </tbody>
