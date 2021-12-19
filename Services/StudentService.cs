@@ -35,6 +35,10 @@ namespace BlazorUAS276.Services
             else{
                 throw new Exception("Gagal tambah data student");
             }
+            public async Task Delete(int id)
+        {
+            await _httpClient.DeleteAsync($"api/Student/{id}");
+        }
     }
     }
 }
